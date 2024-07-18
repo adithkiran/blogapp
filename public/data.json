@@ -1,0 +1,352 @@
+ [
+    {
+      "category": "Health",
+      "title": "The Benefits of a Plant-Based Diet",
+      "authorProfileImage": "https://www.example.com/images/author1.jpg",
+      "authorFullName": "John Doe",
+      "postedDate": "July 18, 2024"
+    },
+    {
+      "category": "Health",
+      "title": "Mental Health Awareness in the Workplace",
+      "authorProfileImage": "https://www.example.com/images/author2.jpg",
+      "authorFullName": "Jane Smith",
+      "postedDate": "June 25, 2024"
+    },
+    {
+      "category": "Health",
+      "title": "Top 10 Superfoods for a Healthy Life",
+      "authorProfileImage": "https://www.example.com/images/author3.jpg",
+      "authorFullName": "Emily Brown",
+      "postedDate": "May 10, 2024"
+    },
+    {
+      "category": "Health",
+      "title": "How to Maintain a Healthy Work-Life Balance",
+      "authorProfileImage": "https://www.example.com/images/author4.jpg",
+      "authorFullName": "Michael Johnson",
+      "postedDate": "April 5, 2024"
+    },
+    {
+      "category": "Health",
+      "title": "Understanding and Managing Chronic Pain",
+      "authorProfileImage": "https://www.example.com/images/author5.jpg",
+      "authorFullName": "Laura White",
+      "postedDate": "March 18, 2024"
+    },
+    {
+      "category": "Technology",
+      "title": "The Future of AI: Trends to Watch in 2024",
+      "authorProfileImage": "https://www.example.com/images/author6.jpg",
+      "authorFullName": "Alice Green",
+      "postedDate": "July 18, 2024"
+    },
+    {
+      "category": "Technology",
+      "title": "5G Networks: What You Need to Know",
+      "authorProfileImage": "https://www.example.com/images/author7.jpg",
+      "authorFullName": "Bob Gray",
+      "postedDate": "June 30, 2024"
+    },
+    {
+      "category": "Technology",
+      "title": "The Rise of Quantum Computing",
+      "authorProfileImage": "https://www.example.com/images/author8.jpg",
+      "authorFullName": "Cathy Black",
+      "postedDate": "May 20, 2024"
+    },
+    {
+      "category": "Technology",
+      "title": "Cybersecurity in 2024: Challenges and Solutions",
+      "authorProfileImage": "https://www.example.com/images/author9.jpg",
+      "authorFullName": "David Blue",
+      "postedDate": "April 15, 2024"
+    },
+    {
+      "category": "Technology",
+      "title": "How IoT is Changing the World",
+      "authorProfileImage": "https://www.example.com/images/author10.jpg",
+      "authorFullName": "Eva Red",
+      "postedDate": "March 22, 2024"
+    },
+    {
+      "category": "Music",
+      "title": "Top 10 Albums of 2024",
+      "authorProfileImage": "https://www.example.com/images/author11.jpg",
+      "authorFullName": "Frank White",
+      "postedDate": "July 1, 2024"
+    },
+    {
+      "category": "Music",
+      "title": "The Evolution of Pop Music",
+      "authorProfileImage": "https://www.example.com/images/author12.jpg",
+      "authorFullName": "Grace Green",
+      "postedDate": "June 20, 2024"
+    },
+    {
+      "category": "Music",
+      "title": "Understanding Classical Music",
+      "authorProfileImage": "https://www.example.com/images/author13.jpg",
+      "authorFullName": "Henry Brown",
+      "postedDate": "May 30, 2024"
+    },
+    {
+      "category": "Music",
+      "title": "How to Start Your Own Band",
+      "authorProfileImage": "https://www.example.com/images/author14.jpg",
+      "authorFullName": "Isabel Blue",
+      "postedDate": "April 12, 2024"
+    },
+    {
+      "category": "Music",
+      "title": "The Impact of Music on Mental Health",
+      "authorProfileImage": "https://www.example.com/images/author15.jpg",
+      "authorFullName": "Jack Gray",
+      "postedDate": "March 19, 2024"
+    },
+    {
+      "category": "Sports",
+      "title": "The Greatest Soccer Players of All Time",
+      "authorProfileImage": "https://www.example.com/images/author16.jpg",
+      "authorFullName": "Karen White",
+      "postedDate": "July 5, 2024"
+    },
+    {
+      "category": "Sports",
+      "title": "The Evolution of the Olympic Games",
+      "authorProfileImage": "https://www.example.com/images/author17.jpg",
+      "authorFullName": "Liam Green",
+      "postedDate": "June 15, 2024"
+    },
+    {
+      "category": "Sports",
+      "title": "How to Train for a Marathon",
+      "authorProfileImage": "https://www.example.com/images/author18.jpg",
+      "authorFullName": "Mia Brown",
+      "postedDate": "May 25, 2024"
+    },
+    {
+      "category": "Sports",
+      "title": "Top 10 Greatest NBA Players",
+      "authorProfileImage": "https://www.example.com/images/author19.jpg",
+      "authorFullName": "Noah Blue",
+      "postedDate": "April 3, 2024"
+    },
+    {
+      "category": "Sports",
+      "title": "The Impact of Technology on Sports",
+      "authorProfileImage": "https://www.example.com/images/author20.jpg",
+      "authorFullName": "Olivia Gray",
+      "postedDate": "March 15, 2024"
+    },
+    {
+      "category": "Travel",
+      "title": "Top 10 Destinations for 2024",
+      "authorProfileImage": "https://www.example.com/images/author21.jpg",
+      "authorFullName": "Paul White",
+      "postedDate": "July 12, 2024"
+    },
+    {
+      "category": "Travel",
+      "title": "How to Travel on a Budget",
+      "authorProfileImage": "https://www.example.com/images/author22.jpg",
+      "authorFullName": "Quincy Green",
+      "postedDate": "June 22, 2024"
+    },
+    {
+      "category": "Travel",
+      "title": "The Best Beaches in the World",
+      "authorProfileImage": "https://www.example.com/images/author23.jpg",
+      "authorFullName": "Rachel Brown",
+      "postedDate": "May 8, 2024"
+    },
+    {
+      "category": "Travel",
+      "title": "How to Plan a Solo Trip",
+      "authorProfileImage": "https://www.example.com/images/author24.jpg",
+      "authorFullName": "Sam Blue",
+      "postedDate": "April 18, 2024"
+    },
+    {
+      "category": "Travel",
+      "title": "Exploring the Hidden Gems of Europe",
+      "authorProfileImage": "https://www.example.com/images/author25.jpg",
+      "authorFullName": "Tina Gray",
+      "postedDate": "March 30, 2024"
+    },
+    {
+      "category": "Finance",
+      "title": "Personal Finance Tips for 2024",
+      "authorProfileImage": "https://www.example.com/images/author26.jpg",
+      "authorFullName": "Uma White",
+      "postedDate": "July 18, 2024"
+    },
+    {
+      "category": "Finance",
+      "title": "How to Save for Retirement",
+      "authorProfileImage": "https://www.example.com/images/author27.jpg",
+      "authorFullName": "Victor Green",
+      "postedDate": "June 29, 2024"
+    },
+    {
+      "category": "Finance",
+      "title": "Understanding the Stock Market",
+      "authorProfileImage": "https://www.example.com/images/author28.jpg",
+      "authorFullName": "Wendy Brown",
+      "postedDate": "May 17, 2024"
+    },
+    {
+      "category": "Finance",
+      "title": "The Importance of Financial Planning",
+      "authorProfileImage": "https://www.example.com/images/author29.jpg",
+      "authorFullName": "Xander Blue",
+      "postedDate": "April 7, 2024"
+    },
+    {
+      "category": "Finance",
+      "title": "How to Manage Debt Effectively",
+      "authorProfileImage": "https://www.example.com/images/author30.jpg",
+      "authorFullName": "Yara Gray",
+      "postedDate": "March 24, 2024"
+    },
+    {
+      "category": "Share Market",
+      "title": "Top Stocks to Watch in 2024",
+      "authorProfileImage": "https://www.example.com/images/author31.jpg",
+      "authorFullName": "Zach White",
+      "postedDate": "July 10, 2024"
+  },
+  {
+    "category": "Share Market",
+    "title": "Understanding Market Trends",
+    "authorProfileImage": "https://www.example.com/images/author32.jpg",
+    "authorFullName": "Amy Green",
+    "postedDate": "June 28, 2024"
+  },
+  {
+    "category": "Share Market",
+    "title": "How to Start Investing in Stocks",
+    "authorProfileImage": "https://www.example.com/images/author33.jpg",
+    "authorFullName": "Brian Brown",
+    "postedDate": "May 21, 2024"
+  },
+  {
+    "category": "Share Market",
+    "title": "The Role of Dividends in Investing",
+    "authorProfileImage": "https://www.example.com/images/author34.jpg",
+    "authorFullName": "Cara Blue",
+    "postedDate": "April 25, 2024"
+  },
+  {
+    "category": "Share Market",
+    "title": "How to Diversify Your Portfolio",
+    "authorProfileImage": "https://www.example.com/images/author35.jpg",
+    "authorFullName": "Dan Gray",
+    "postedDate": "March 28, 2024"
+  },
+  {
+    "category": "Lifestyle",
+    "title": "Tips for a Balanced Lifestyle",
+    "authorProfileImage": "https://www.example.com/images/author36.jpg",
+    "authorFullName": "Eva White",
+    "postedDate": "July 8, 2024"
+  },
+  {
+    "category": "Lifestyle",
+    "title": "How to Stay Motivated",
+    "authorProfileImage": "https://www.example.com/images/author37.jpg",
+    "authorFullName": "Finn Green",
+    "postedDate": "June 16, 2024"
+  },
+  {
+    "category": "Lifestyle",
+    "title": "The Importance of Self-Care",
+    "authorProfileImage": "https://www.example.com/images/author38.jpg",
+    "authorFullName": "Gina Brown",
+    "postedDate": "May 12, 2024"
+  },
+  {
+    "category": "Lifestyle",
+    "title": "How to Create a Healthy Routine",
+    "authorProfileImage": "https://www.example.com/images/author39.jpg",
+    "authorFullName": "Harry Blue",
+    "postedDate": "April 20, 2024"
+  },
+  {
+    "category": "Lifestyle",
+    "title": "Minimalism: Living with Less",
+    "authorProfileImage": "https://www.example.com/images/author40.jpg",
+    "authorFullName": "Ivy Gray",
+    "postedDate": "March 27, 2024"
+  },
+  {
+    "category": "Business",
+    "title": "The Future of E-Commerce",
+    "authorProfileImage": "https://www.example.com/images/author41.jpg",
+    "authorFullName": "Jack White",
+    "postedDate": "July 14, 2024"
+  },
+  {
+    "category": "Business",
+    "title": "How to Start a Small Business",
+    "authorProfileImage": "https://www.example.com/images/author42.jpg",
+    "authorFullName": "Kate Green",
+    "postedDate": "June 26, 2024"
+  },
+  {
+    "category": "Business",
+    "title": "The Importance of Customer Service",
+    "authorProfileImage": "https://www.example.com/images/author43.jpg",
+    "authorFullName": "Liam Brown",
+    "postedDate": "May 19, 2024"
+  },
+  {
+    "category": "Business",
+    "title": "How to Scale Your Startup",
+    "authorProfileImage": "https://www.example.com/images/author44.jpg",
+    "authorFullName": "Mia Blue",
+    "postedDate": "April 13, 2024"
+  },
+  {
+    "category": "Business",
+    "title": "The Role of Technology in Business",
+    "authorProfileImage": "https://www.example.com/images/author45.jpg",
+    "authorFullName": "Nina Gray",
+    "postedDate": "March 25, 2024"
+  },
+  {
+    "category": "News and Current Affairs",
+    "title": "The Impact of Climate Change",
+    "authorProfileImage": "https://www.example.com/images/author46.jpg",
+    "authorFullName": "Owen White",
+    "postedDate": "July 6, 2024"
+  },
+  {
+    "category": "News and Current Affairs",
+    "title": "Political Landscape in 2024",
+    "authorProfileImage": "https://www.example.com/images/author47.jpg",
+    "authorFullName": "Paul Green",
+    "postedDate": "June 18, 2024"
+  },
+  {
+    "category": "News and Current Affairs",
+    "title": "The Future of Renewable Energy",
+    "authorProfileImage": "https://www.example.com/images/author48.jpg",
+    "authorFullName": "Quinn Brown",
+    "postedDate": "May 23, 2024"
+  },
+  {
+    "category": "News and Current Affairs",
+    "title": "Global Economic Trends",
+    "authorProfileImage": "https://www.example.com/images/author49.jpg",
+    "authorFullName": "Rachel Blue",
+    "postedDate": "April 28, 2024"
+  },
+  {
+    "category": "News and Current Affairs",
+    "title": "The Future of Work Post-Pandemic",
+    "authorProfileImage": "https://www.example.com/images/author50.jpg",
+    "authorFullName": "Sam Gray",
+    "postedDate": "March 31, 2024"
+  }
+]
